@@ -1,8 +1,0 @@
-enlace publico de trello:
-https://trello.com/invite/b/67c6fab69e796e8da63d3eae/ATTI65e61fc28821424e3bf91f36afd3b4367C8E1931/problematica-de-avion
-
-enlace publico de figma:
-https://www.figma.com/design/2cbZT0zeguToXqYkbbl2NF/PROBLEMATICA-DE-AVION?node-id=0-1&t=FvOVgaDRWxHlT3H5-1
-
-enlace del repositorio:
-https://github.com/nicolas1250/programacion-movil-2025-a-g2.git
