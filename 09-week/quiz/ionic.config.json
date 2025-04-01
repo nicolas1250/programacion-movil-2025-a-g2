@@ -1,0 +1,7 @@
+{
+  "name": "layouts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
