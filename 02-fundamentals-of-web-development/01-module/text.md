@@ -7,5 +7,5 @@
 
  Entendí la diferencia entre los procesos del lado del cliente (front-end) y del servidor (back-end), junto con los lenguajes más comunes en cada área. También aprendí a distinguir entre la World Wide Web e Internet, y descubrí cómo la nube facilita el desarrollo web. 
 
-![foto2](/01-module/img1/catur1.png)  
-![foto](/01-module/img1/captura1.png) 
+![foto2](img1/catur1.png)  
+![foto](img1/captura1.png) 
